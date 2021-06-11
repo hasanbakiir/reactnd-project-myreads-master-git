@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import myNotFound from '../images/MyNotFound.jpg';
 
+
 const MyNotFound = () => (
   <div>
     <h1 className="not-found-title">
